@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash1943" alt="yash1943" /></a> </p>
 
-- 🔭 I’m currently working on [Chamical Predictor](https://github.com/Yash1943/Chemical_Predictor)
+- 🔭 I’m currently working on [Chamical Predictor](https://github.com/Yash1943/Chemical_Predictor) ,[Sports-Guide](https://github.com/Yash1943/Authantication_Using_Python)
 
 - 🌱 I’m currently learning **React.js , Node.js , Next.js**
 
